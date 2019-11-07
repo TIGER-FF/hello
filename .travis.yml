@@ -1,7 +1,8 @@
 language: java
 jdk:
   -oraclejdk8
-install: cd hello && mvn install -DskipTests=true -Dmaven.javadoc.skip=true
+install: 
+    cd hello && mvn install -DskipTests=true -Dmaven.javadoc.skip=true
 script: mvn test
 deploy:
   provider: heroku
