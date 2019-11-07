@@ -1,5 +1,5 @@
 language: java
-install: cd hello && mvn install -DskipTests=true -Dmaven.javadoc.skip=true
+install: mvn install -DskipTests=true -Dmaven.javadoc.skip=true
 script: mvn test
 deploy:
   provider: heroku
