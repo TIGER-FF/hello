@@ -1,1 +1,1 @@
-web: java  $PORT target/hello-0.0.1-SNAPSHOT.war
+web: java  target/hello-0.0.1-SNAPSHOT.war
