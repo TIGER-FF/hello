@@ -3,5 +3,5 @@ install: mvn install -DskipTests=true -Dmaven.javadoc.skip=true
 deploy:
   provider: heroku
   api_key:
-    secure: 9f3081a8-11a8-4d4c-a60c-4540dc9ce3d5
+    secure: 2vWR+8oqqYQt3fUBj3sc6PTr2ToY/NRHsjgSxRbpEek0bHxz89HNHGVtJ6XNmcQkd5oKdVwclCgDxOOXzSMukuRX7EFmZ6nYyRpHRQ7tTTY64tQszxlpnqGmLA3sUuTVhZa0y8S/TZWp8vIYtgH85ptCWCeWt53VIlDr984mcHIVIut3nG9R2bT7ujbEDscP1XJARozanKYab7QO8EZdDhxvTUIKxs7LgVsgMJn77PJQq2ft+FMtI4qpx5I/ipn/FtFmgYPpfTfdsAeKrLjrSDRM7gi7CfeTlLXtnlRFgxvVpQtK0CGKqJdUkBrU4cui3JcdQHiUA+afm9nyq9eki/ADnGVA4W2SA0A7QDbhN5uDe/YahfiqX3gl5e9FyDTwPeiBygTfdzbKdmkaHBy8J4KxuYrNUAL400KL6+xlKtlWWnZ4l2qG2bUQusVZEiXzpHGWUhgza/RtplBaZZPlU5+tO115ZjBMOr+U+zKyV+EzZNE66g55yVMVfunQltQybcqODNq6P/W2zxGDmP+zVXqj0fmFRDw/+xvkaUs0KBqtlThQC69oQnoFsmNYcOqD89rumBqwVsyasUj30i/8BUZ+EQX/CgyTbf80UFwCA5z1OXUhwn1Zhin4q0qlM/Tft7RGJj90WilchWpQJA64g24u5Pv36fdZSYVh/A9Sy1A=
   app: tigerffff
