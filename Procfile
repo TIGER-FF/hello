@@ -1,1 +1,1 @@
-web: java -jar target/hello-0.0.1-SNAPSHOT.war
+web: target/hello-0.0.1-SNAPSHOT.war
