@@ -3,5 +3,5 @@ install: mvn install -DskipTests=true -Dmaven.javadoc.skip=true
 deploy:
   provider: heroku
   api_key:
-    secure: 2d439a85-aa68-46a5-bfd6-9560a15af5fe
+    secure: 9f3081a8-11a8-4d4c-a60c-4540dc9ce3d5
   app: tigerffff
