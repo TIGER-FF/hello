@@ -1,1 +1,1 @@
-web: sh target/hello-0.0.1-SNAPSHOT
+web: hello-0.0.1-SNAPSHOT.war
