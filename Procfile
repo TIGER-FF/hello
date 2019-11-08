@@ -1,1 +1,1 @@
-web: hello-0.0.1-SNAPSHOT.war
+web: java hello-0.0.1-SNAPSHOT.war
